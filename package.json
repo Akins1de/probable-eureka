@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "kripta-pyzur": "1.0.0",
-    "fluffy-octo-umbrella ": "1.0.0"
+    "fluffy-octo-umbrella": "1.0.0"
   },
   "author": "",
   "license": "ISC",
